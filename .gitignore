@@ -1,0 +1,28 @@
+# Environment and credentials
+.env
+.env.*
+!.env.*.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.venv/
+
+# GitNexus runtime data
+.gitnexus/
