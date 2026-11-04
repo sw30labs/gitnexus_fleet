@@ -1,3 +1,4 @@
 rich==15.0.0
 requests==2.34.2
 python-dotenv==1.2.4
+certifi==2026.10.18  # VulnOps GHSA-6q48-6c7w-9gw2: transitive dependency floor
